@@ -1,0 +1,14 @@
+{
+  "name": "jestbase",
+  "version": "1.0.0",
+  "description": "Unit Test with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Juan Ignacio Rios",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
